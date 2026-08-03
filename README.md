@@ -30,7 +30,6 @@ Objetivo: llegar a escribir código limpio, crear software confiable y convertir
 <br clear="all">
 
 <br claro="todos">
----
 
 <!-- CONTACTO -->
 <h2 align="center">Contacto </h2>
@@ -51,8 +50,6 @@ Objetivo: llegar a escribir código limpio, crear software confiable y convertir
     <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" />
   </a>
 </p>
-
-
 
 <!-- ICONOS-->
 <h2 alinear="centro">Lenguajes</h2>
