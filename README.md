@@ -19,9 +19,9 @@
 
 <img align="right" src="https://github.com/jair0-o/jair0-o/blob/main/icon%20short%20github.jpg" width="220" alt="Icono">
 
-Jairo, Aquí — estudiante de informática enfocado en desarrollo de software y bases de datos.
+Jairo, Aquí — Estudiante de informática enfocado en desarrollo de software y bases de datos.
 
-Soy un Apasionado de los Deportes como de Programación, me divierto mucho realizando proyectos de Java.
+Soy un Apasionado de los Deportes como de la Programación, me divierto mucho realizando proyectos de Java.
 
 Actualmente aprendiendo Java y puliendo mis habilidades de programación.
 
@@ -58,7 +58,7 @@ Objetivo: llegar a escribir código limpio, crear software confiable y convertir
 
 <p alinear="centro">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,git,github" alt="Lenguajes" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,github" alt="Lenguajes" />
   </a>
 </p>
 
