@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p alinear="centro">
-  <img src="https://raw.githubusercontent.com/jair0-o/jair0-o/main/assets/banner github.png" alt="Banner de encabezado" ancho="100%">
+  <img src="https://github.com/jair0-o/jair0-o/main/assets/banner github.png" alt="Banner de encabezado" ancho="100%">
 </p>
 
 <!-- PRESENTACIÓN -->
@@ -15,10 +15,10 @@
 ---
 
 <!-- ACERCA DE MÍ CON IMAGEN A LA DERECHA -->
-<h2 alinear="centro">🚀 Cerca de mí</h2>
+<h2 alinear="centro">ACerca de mí 👨🏻‍💻</h2>
 
 <p>
-  <img alinear="corregir" src="https://raw.githubusercontent.com/jair0-o/jair0-o/main/assets/icon short github.jpg" ancho="280" alt="Arte de píxeles de astronauta">
+  <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/main/assets/icon short github.jpg" ancho="280" alt="Arte de píxeles de astronauta">
 
   Jairo, Aquí — estudiante de Informática enfocado en desarrollo de software y enfermería de bases de datos.
   <br><br>
