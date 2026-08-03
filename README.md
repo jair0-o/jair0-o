@@ -20,7 +20,7 @@
 <img align="right" src="https://raw.githubusercontent.com/jair0-o/jair0-o/main/caballerito.jpg" width="220" alt="Icono">
 
 <p>
-  Jairo, aquí — estudiante de informática enfocado en desarrollo de software y bases de datos.
+  Jairo — estudiante de informática enfocado en desarrollo de software y bases de datos.
   <br><br>
   Soy un apasionado del anime, videojuegos, deportes y la programación, y disfruto mucho realizando mis pasatiempos favoritos.
   <br><br>
