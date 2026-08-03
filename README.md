@@ -33,7 +33,7 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y conve
 ---
 
 <!-- CONTACTO (Iconos minimalistas funcionando) -->
-<h2 align="center">🤝 Contacto</h2>
+<h2 align="center">Contacto</h2>
 
 <p align="center">
   <!-- Instagram -->
@@ -46,9 +46,9 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y conve
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="35" height="35" alt="TikTok" />
   </a>
   &nbsp;&nbsp;
-<!-- Correo Institucional / Estudiantil -->
-<a href="jorellana-2026225@kinal.edu.gt" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" width="35" height="35" alt="Correo Estudiantil" />
+  <!-- Correo -->
+<a href="mailto:jorellana-2026225@kinal.edu.gt" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/academicons.svg" width="35" height="35" alt="Correo Estudiantil" />
 </a>
   <!-- Discord -->
   <a href="https://discord.com/users/jairo_0rellana" target="_blank">
