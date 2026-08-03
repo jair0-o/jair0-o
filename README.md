@@ -15,7 +15,7 @@
 ---
 
 <!-- ACERCA DE MÍ CON IMAGEN A LA DERECHA -->
-<h2 alinear="centro">ACerca de mí 👨🏻‍💻</h2>
+<h2 alinear="centro">Acerca de mí 👨🏻‍💻</h2>
 
 <p>
   <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/main/assets/icon short github.jpg" ancho="280" alt="Arte de píxeles de astronauta">
@@ -36,13 +36,13 @@
 <h2 alinear="centro">🤝 Conectar</h2>
 
 <p alinear="centro">
-  <a href="https://github.com/tu-usuario" objetivo="_en blanco">
+  <a href="https://github.com/jair0-o" objetivo="_en blanco">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logotipo=github&logoColor=blanco" alt=„GitHub">
   </a>
   <a href="https://linkedin.com" objetivo="_en blanco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blanco" alt="LinkedIn">
   </a>
-  <a href="mailto:tu-email@gmail.com" objetivo="_en blanco">
+  <a href="mailto:jorellana-2026225@kinal.edu.gt" objetivo="_en blanco">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logotipo=gmail&logoColor=blanco" alt=„Gmail">
   </a>
 </p>
@@ -64,7 +64,7 @@
 <h2 alinear="centro">📊 Estadísticas de GitHub</h2>
 
 <p alinear="centro">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&tema=oscuro&ocultar_borde=verdadero&fondo=0D1117" alt=„GitHub Racha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jair0-o&tema=oscuro&ocultar_borde=verdadero&fondo=0D1117" alt=„GitHub Racha" />
 </p>
 
 ---
@@ -73,6 +73,6 @@
 <h2 alinear="centro">📈 Gráfico de actividad</h2>
 
 <p alinear="centro">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&tema=github-compacto&ocultar_borde=verdadero&bg_color=0D1117" alt="Gráfico de actividades" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jair0-o&tema=github-compacto&ocultar_borde=verdadero&bg_color=0D1117" alt="Gráfico de actividades" />
 </p>
 
