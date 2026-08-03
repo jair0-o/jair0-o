@@ -32,28 +32,28 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y conve
 <br claro="todos">
 ---
 
-<!-- CONTACTO (Solo íconos minimalistas) -->
+<!-- CONTACTO (Iconos minimalistas funcionando) -->
 <h2 align="center">🤝 Contacto</h2>
 
 <p align="center">
   <!-- Instagram -->
   <a href="https://instagram.com/jairo_0rellana" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="35" height="35" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <!-- TikTok -->
   <a href="https://tiktok.com/@jairo_0rellana" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="35" height="35" alt="TikTok" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="35" height="35" alt="TikTok" />
   </a>
   &nbsp;&nbsp;
-  <!-- Gmail -->
+  <!-- Outlook -->
   <a href="mailto:jorellana-2026225@kinal.edu.gt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" width="35" height="35" alt="Outlook" />
   </a>
   &nbsp;&nbsp;
   <!-- Discord -->
-  <a href="https://discord.com/jairo_0rellana" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="Discord" />
+  <a href="https://discord.com/users/jairo_0rellana" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="35" height="35" alt="Discord" />
   </a>
 </p>
 
