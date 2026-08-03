@@ -48,7 +48,7 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y conve
   &nbsp;&nbsp;
   <!-- Correo -->
 <a href="mailto:jorellana-2026225@kinal.edu.gt" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/academicons.svg" width="35" height="35" alt="Correo Estudiantil" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" width="35" height="35" alt="Outlook" />
 </a>
   <!-- Discord -->
   <a href="https://discord.com/users/jairo_0rellana" target="_blank">
