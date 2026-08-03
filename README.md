@@ -46,11 +46,10 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y conve
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="35" height="35" alt="TikTok" />
   </a>
   &nbsp;&nbsp;
-  <!-- Outlook -->
-  <a href="mailto:jorellana-2026225@kinal.edu.gt" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" width="35" height="35" alt="Outlook" />
-  </a>
-  &nbsp;&nbsp;
+<!-- Correo Institucional / Estudiantil -->
+<a href="jorellana-2026225@kinal.edu.gt" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" width="35" height="35" alt="Correo Estudiantil" />
+</a>
   <!-- Discord -->
   <a href="https://discord.com/users/jairo_0rellana" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="35" height="35" alt="Discord" />
@@ -64,7 +63,7 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y conve
 
 <p alinear="centro">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,git,github,css,js" alt="Lenguajes" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,git,github" alt="Lenguajes" />
   </a>
 </p>
 
