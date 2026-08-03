@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p alinear="centro">
-  <img src="https://github.com/jair0-o/jair0-o/banner github.jpg" alt="Banner" ancho="100%">
+  <img src="https://github.com/jair0-o/jair0-o/blob/main/banner%20github.jpg" alt="Banner" ancho="100%">
 </p>
 
 <!-- PRESENTACIÓN -->
@@ -18,7 +18,7 @@
 <h2 alinear="centro">Acerca de mí 👨🏻‍💻</h2>
 
 <p>
-  <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/icon short github.jpg" ancho="280" alt="Icon Pequeño">
+  <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/blob/main/icon%20short%20github.jpg" ancho="280" alt="Icon Pequeño">
 
   Jairo, Aquí — estudiante de Informática enfocado en desarrollo de software y enfermería de bases de datos.
   <br><br>
@@ -56,20 +56,4 @@
 </p>
 
 ---
-
-<!-- ESTADÍSTICAS DE GITHUB -->
-<h2 alinear="centro">Rstadísticas</h2>
-
-<p alinear="centro">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jair0-o&tema=oscuro&ocultar_borde=verdadero&fondo=0D1117" alt=„GitHub Racha" />
-</p>
-
----
-
-<!-- GRÁFICO DE ACTIVIDAD -->
-<h2 alinear="centro">Gráfica de Actividad</h2>
-
-<p alinear="centro">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jair0-o&tema=github-compacto&ocultar_borde=verdadero&bg_color=0D1117" alt="Gráfico de actividades" />
-</p>
 
