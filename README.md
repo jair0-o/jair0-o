@@ -21,9 +21,9 @@
 
 Jairo, Aquí — Estudiante de informática enfocado en desarrollo de software y bases de datos.
 
-Soy un Apasionado de los Deportes como de la Programación, me divierto mucho realizando proyectos de Java.
+Soy un Apasionado de los Deportes como de la Programación, y me divierto mucho realizando proyectos de Java.
 
-Actualmente aprendiendo Java y puliendo mis habilidades de programación.
+Actualmente me encuentro aprendiendo Java y puliendo mis habilidades de programación.
 
 Objetivo: llegar a escribir código limpio, crear software confiable y convertirme en un Programador full-stack que cree sistemas duraderos.
 
