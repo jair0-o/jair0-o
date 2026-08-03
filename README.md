@@ -17,11 +17,11 @@
 <!-- ACERCA DE MÍ -->
 <h2>Acerca de mí 🕷</h2>
 
-<img align="right" src="https://github.com/jair0-o/jair0-o/blob/main/icon%20short%20github.jpg" width="220" alt="Icono">
+<img align="right" src="https://github.com/jair0-o/jair0-o/blob/main/caballerito.jpg" width="220" alt="Icono">
 
 Jairo, Aquí — Estudiante de informática enfocado en desarrollo de software y bases de datos.
 
-Soy un Apasionado del Anime, Deportes y la Programación, y me divierto mucho realizando mis pasatiempos favoritos.
+Soy un Apasionado del Anime, Videojuegos, Deportes y la Programación, y disfruto mucho realizando mis pasatiempos favoritos.
 
 Actualmente me encuentro aprendiendo Java y puliendo mis habilidades de programación.
 
