@@ -32,25 +32,26 @@ Objetivo: llegar a escribir código limpio, crear software confiable y convertir
 <br claro="todos">
 ---
 
-<!-- CONTACTO (Iconos minimalistas funcionando) -->
-<h2 align="center">Contacto</h2>
+<!-- CONTACTO (Solo logos a color) -->
+<h2 align="center">🤝 Contacto</h2>
 
 <p align="center">
   <!-- Instagram -->
   <a href="https://instagram.com/jairo_0rellana" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="35" height="35" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <!-- TikTok -->
   <a href="https://tiktok.com/@jairo_0rellana" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="35" height="35" alt="TikTok" />
+    <img src="https://skillicons.dev/icons?i=tiktok" width="40" alt="TikTok" />
   </a>
   &nbsp;&nbsp;
   <!-- Discord -->
-  <a href="https://discord.com/users/jairo_0rellana" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="35" height="35" alt="Discord" />
+  <a href="https://discord.com/users/@jairo_0rellana" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" />
   </a>
 </p>
+
 
 
 <!-- ICONOS-->
