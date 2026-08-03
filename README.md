@@ -1,38 +1,40 @@
 <!-- BANNER -->
-<p alinear="centro">
-  <img src="https://github.com/jair0-o/jair0-o/blob/main/banner%20github.jpg" alt="Banner"Soy un Apasionado del Anime, Videojuegos, Deportes y la Programación, y disfruto mucho realizando mis pasatiempos favoritos.ancho="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jair0-o/jair0-o/main/banner%20github.jpg" alt="Banner" width="100%">
 </p>
 
 <!-- PRESENTACIÓN -->
-<h1 alinear="centro">Hola 👋, Soy Jairo</h1>
+<h1 align="center">Hola 👋, Soy Jairo</h1>
 
-<h3 alinear="centro">Desarrollador y estudiante de software</h3>
+<h3 align="center">Desarrollador y estudiante de software</h3>
 
-<p alinear="centro">
+<p align="center">
   <i>Construyendo sistemas confiables con arquitectura limpia y soluciones escalables.</i>
 </p>
 
 ---
 
 <!-- ACERCA DE MÍ -->
-<altAcerca de mí 🕷</h2>
+<h2 align="center">Acerca de mí 🕷</h2>
 
-<img alinear="correcto" src="https://github.com/jair0-o/jair0-o/blob/main/caballerito.jpg" ancho="220" alt="Icono">
+<img align="right" src="https://raw.githubusercontent.com/jair0-o/jair0-o/main/caballerito.jpg" width="220" alt="Icono">
 
-Jairo, Aquí — Estudio de informática enfocado en desarrollo de software y bases de datos.
-
-Soy un Apasionado del Anime, Videojuegos, Deportes y la Programación, y disfruto mucho realizando mis pasos favoritos.
-
-Actualmente me encuentro aprendiendo Java y puliendo mis habilidades de programación.
-
-Objetivo: llegar a escribir código limpio, crear software confiable y convertirme en un Programador full-stack que cree sistemas duraderos.
+<p>
+  Jairo, aquí — estudiante de informática enfocado en desarrollo de software y bases de datos.
+  <br><br>
+  Soy un apasionado del anime, videojuegos, deportes y la programación, y disfruto mucho realizando mis pasatiempos favoritos.
+  <br><br>
+  Actualmente me encuentro aprendiendo Java y puliendo mis habilidades de programación.
+  <br><br>
+  <b>Objetivo:</b> aprender a escribir código limpio, crear software confiable y convertirme en un programador full-stack que cree sistemas duraderos.
+</p>
 
 <br clear="all">
 
-<br claro="todos">
+---
 
 <!-- CONTACTO -->
-<h2 align="center">Contacto </h2>
+<h2 align="center">Contacto</h2>
 
 <p align="center">
   <!-- Instagram -->
@@ -51,14 +53,13 @@ Objetivo: llegar a escribir código limpio, crear software confiable y convertir
   </a>
 </p>
 
-<!-- LENGUAJES-->
-<h2 alinear="centro">Lenguajes</h2>
+---
 
-<p alinear="centro">
+<!-- LENGUAJES -->
+<h2 align="center">💻 Lenguajes</h2>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,mysql,github" alt="Lenguajes" />
   </a>
 </p>
-
----
-
