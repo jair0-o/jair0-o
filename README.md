@@ -1,6 +1,6 @@
-<!-- BANNER SUPERIOR -->
+<!-- BANNER -->
 <p alinear="centro">
-  <img src="https://github.com/jair0-o/jair0-o/blob/main/banner%20github.jpg" alt="Banner" ancho="100%">
+  <img src="https://github.com/jair0-o/jair0-o/blob/main/banner%20github.jpg" alt="Banner"Soy un Apasionado del Anime, Videojuegos, Deportes y la Programación, y disfruto mucho realizando mis pasatiempos favoritos.ancho="100%">
 </p>
 
 <!-- PRESENTACIÓN -->
@@ -15,13 +15,13 @@
 ---
 
 <!-- ACERCA DE MÍ -->
-<h2>Acerca de mí 🕷</h2>
+<altAcerca de mí 🕷</h2>
 
-<img align="right" src="https://github.com/jair0-o/jair0-o/blob/main/caballerito.jpg" width="220" alt="Icono">
+<img alinear="correcto" src="https://github.com/jair0-o/jair0-o/blob/main/caballerito.jpg" ancho="220" alt="Icono">
 
-Jairo, Aquí — Estudiante de informática enfocado en desarrollo de software y bases de datos.
+Jairo, Aquí — Estudio de informática enfocado en desarrollo de software y bases de datos.
 
-Soy un Apasionado del Anime, Videojuegos, Deportes y la Programación, y disfruto mucho realizando mis pasatiempos favoritos.
+Soy un Apasionado del Anime, Videojuegos, Deportes y la Programación, y disfruto mucho realizando mis pasos favoritos.
 
 Actualmente me encuentro aprendiendo Java y puliendo mis habilidades de programación.
 
@@ -51,7 +51,7 @@ Objetivo: llegar a escribir código limpio, crear software confiable y convertir
   </a>
 </p>
 
-<!-- ICONOS-->
+<!-- LENGUAJES-->
 <h2 alinear="centro">Lenguajes</h2>
 
 <p alinear="centro">
