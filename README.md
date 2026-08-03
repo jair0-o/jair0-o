@@ -15,7 +15,7 @@
 ---
 
 <!-- ACERCA DE MÍ -->
-<h2>Acerca de mí 👨🏻‍💻</h2>
+<h2>Acerca de mí 🕷</h2>
 
 <img align="right" src="https://github.com/jair0-o/jair0-o/blob/main/icon%20short%20github.jpg" width="220" alt="Icono">
 
@@ -32,8 +32,8 @@ Objetivo: llegar a escribir código limpio, crear software confiable y convertir
 <br claro="todos">
 ---
 
-<!-- CONTACTO (Solo logos a color) -->
-<h2 align="center">🤝 Contacto</h2>
+<!-- CONTACTO -->
+<h2 align="center">Contacto </h2>
 
 <p align="center">
   <!-- Instagram -->
