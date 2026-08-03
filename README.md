@@ -21,7 +21,7 @@
 
 Jairo, Aquí — Estudiante de informática enfocado en desarrollo de software y bases de datos.
 
-Soy un Apasionado de los Deportes como de la Programación, y me divierto mucho realizando proyectos de Java.
+Soy un Apasionado del Anime, Deportes y la Programación, y me divierto mucho realizando mis pasatiempos favoritos.
 
 Actualmente me encuentro aprendiendo Java y puliendo mis habilidades de programación.
 
