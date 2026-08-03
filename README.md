@@ -1,10 +1,10 @@
 <!-- BANNER SUPERIOR -->
 <p alinear="centro">
-  <img src="https://raw.githubusercontent.com/jairo-dev/jairo-dev/main/assets/banner.png" alt="Banner de encabezado" ancho="100%">
+  <img src="https://raw.githubusercontent.com/jair0-o/jair0-o/main/assets/banner github.png" alt="Banner de encabezado" ancho="100%">
 </p>
 
 <!-- PRESENTACIÓN -->
-<h1 alinear="centro">Hola 👋, Imma Jairo</h1>
+<h1 alinear="centro">Hola 👋, Soy Jairo</h1>
 
 <h3 alinear="centro">Desarrollador y estudiante de software</h3>
 
@@ -18,9 +18,9 @@
 <h2 alinear="centro">🚀 Cerca de mí</h2>
 
 <p>
-  <img alinear="corregir" src="https://raw.githubusercontent.com/jairo-dev/jairo-dev/main/assets/astronaut.png" ancho="280" alt="Arte de píxeles de astronauta">
+  <img alinear="corregir" src="https://raw.githubusercontent.com/jair0-o/jair0-o/main/assets/icon short github.jpg" ancho="280" alt="Arte de píxeles de astronauta">
 
-  Jairo, Aquí — estudiante de Ciencias de la Computación enfocado en desarrollo de software y enfermería de bases de datos.
+  Jairo, Aquí — estudiante de Informática enfocado en desarrollo de software y enfermería de bases de datos.
   <br><br>
   Disfruto creando aplicaciones escalables, entrando UI/UX limpias y mejorando continuamente mi comprensión de los sistemas backend y la programación orientada a objetos.
   <br><br>
