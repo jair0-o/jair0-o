@@ -14,20 +14,20 @@
 
 ---
 
-<!-- ACERCA DE MÍ CON IMAGEN A LA DERECHA -->
-<h2 alinear="centro">Acerca de mí 👨🏻‍💻</h2>
+<!-- ACERCA DE MÍ -->
+<h2>Acerca de mí 🥷</h2>
 
-<p>
-  <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/blob/main/icon%20short%20github.jpg" ancho="280" alt="Icon Pequeño">
+<img align="right" src="https://github.com/jair0-o/jair0-o/blob/main/icon%20short%20github.jpg" width="220" alt="Icono">
 
-  Jairo, Aquí — estudiante de Informática enfocado en desarrollo de software y enfermería de bases de datos.
-  <br><br>
-  Disfruto creando aplicaciones escalables, entrando UI/UX limpias y mejorando continuamente mi comprensión de los sistemas backend y la programación orientada a objetos.
-  <br><br>
-  Actualmente aprendiz <b>JavaFX</b>, <b>MySQL</b>, y avanzar en las arquitecturas de sistemas mientras agudizo mis habilidades para resolver problemas.
-  <br><br>
-  Mi objetivo es simple: escribir código limpio, crear software confiable y convertir en un ingenio full-stack que cree sistemas duraderos.
-</p>
+Jairo, Aquí — estudiante de informática enfocado en desarrollo de software y bases de datos.
+
+Disfruto creando aplicaciones escalables, diseñando UI/UX limpias y mejorando continuamente mi comprensión de los sistemas backend y la programación orientada a objetos.
+
+Actualmente aprendiendo JavaFX, MySQL, y avanzando en las arquitecturas de sistemas mientras agudizo mis habilidades para resolver problemas.
+
+Mi objetivo es simple: escribir código limpio, crear software confiable y convertirme en un ingeniero full-stack que cree sistemas duraderos.
+
+<br clear="all">
 
 <br claro="todos">
 ---
