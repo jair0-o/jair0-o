@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p alinear="centro">
-  <img src="https://github.com/jair0-o/jair0-o/main/assets/banner github.png" alt="Banner de encabezado" ancho="100%">
+  <img src="https://github.com/jair0-o/jair0-o/main/assets/banner github.jpg" alt="Banner" ancho="100%">
 </p>
 
 <!-- PRESENTACIÓN -->
@@ -18,7 +18,7 @@
 <h2 alinear="centro">Acerca de mí 👨🏻‍💻</h2>
 
 <p>
-  <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/main/assets/icon short github.jpg" ancho="280" alt="Arte de píxeles de astronauta">
+  <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/main/assets/icon short github.jpg" ancho="280" alt="Icon Pequeño">
 
   Jairo, Aquí — estudiante de Informática enfocado en desarrollo de software y enfermería de bases de datos.
   <br><br>
@@ -33,14 +33,11 @@
 ---
 
 <!-- ENLACES DE CONTACTO / SOCIALES -->
-<h2 alinear="centro">🤝 Conectar</h2>
+<h2 alinear="centro">Contactos</h2>
 
 <p alinear="centro">
   <a href="https://github.com/jair0-o" objetivo="_en blanco">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logotipo=github&logoColor=blanco" alt=„GitHub">
-  </a>
-  <a href="https://linkedin.com" objetivo="_en blanco">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blanco" alt="LinkedIn">
   </a>
   <a href="mailto:jorellana-2026225@kinal.edu.gt" objetivo="_en blanco">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logotipo=gmail&logoColor=blanco" alt=„Gmail">
