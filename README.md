@@ -15,7 +15,7 @@
 ---
 
 <!-- ACERCA DE MÍ -->
-<h2>Acerca de mí 🥷</h2>
+<h2>Acerca de mí 👨🏻‍💻</h2>
 
 <img align="right" src="https://github.com/jair0-o/jair0-o/blob/main/icon%20short%20github.jpg" width="220" alt="Icono">
 
@@ -32,15 +32,28 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y conve
 <br claro="todos">
 ---
 
-<!-- ENLACES DE CONTACTO / SOCIALES -->
-<h2 alinear="centro">Contacto</h2>
+<!-- CONTACTO (Solo íconos minimalistas) -->
+<h2 align="center">🤝 Contacto</h2>
 
-<p alinear="centro">
-  <a href="https://github.com/jair0-o" objetivo="_en blanco">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logotipo=github&logoColor=blanco" alt=„GitHub">
+<p align="center">
+  <!-- Instagram -->
+  <a href="https://instagram.com/jairo_0rellana" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="Instagram" />
   </a>
-  <a href="mailto:jorellana-2026225@kinal.edu.gt" objetivo="_en blanco">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logotipo=gmail&logoColor=blanco" alt=„Gmail">
+  &nbsp;&nbsp;
+  <!-- TikTok -->
+  <a href="https://tiktok.com/@jairo_0rellana" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="35" height="35" alt="TikTok" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:jorellana-2026225@kinal.edu.gt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Discord -->
+  <a href="https://discord.com/jairo_0rellana" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="Discord" />
   </a>
 </p>
 
