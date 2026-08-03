@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p alinear="centro">
-  <img src="https://github.com/jair0-o/jair0-o/main/assets/banner github.jpg" alt="Banner" ancho="100%">
+  <img src="https://github.com/jair0-o/jair0-o/banner github.jpg" alt="Banner" ancho="100%">
 </p>
 
 <!-- PRESENTACIÓN -->
@@ -18,7 +18,7 @@
 <h2 alinear="centro">Acerca de mí 👨🏻‍💻</h2>
 
 <p>
-  <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/main/assets/icon short github.jpg" ancho="280" alt="Icon Pequeño">
+  <img alinear="corregir" src="https://github.com/jair0-o/jair0-o/icon short github.jpg" ancho="280" alt="Icon Pequeño">
 
   Jairo, Aquí — estudiante de Informática enfocado en desarrollo de software y enfermería de bases de datos.
   <br><br>
@@ -33,7 +33,7 @@
 ---
 
 <!-- ENLACES DE CONTACTO / SOCIALES -->
-<h2 alinear="centro">Contactos</h2>
+<h2 alinear="centro">Contacto</h2>
 
 <p alinear="centro">
   <a href="https://github.com/jair0-o" objetivo="_en blanco">
@@ -47,18 +47,18 @@
 ---
 
 <!-- ICONOS DE TECH STACK CON -->
-<h2 alinear="centro">💻 Pila de tecnología</h2>
+<h2 alinear="centro">Lenguajes</h2>
 
 <p alinear="centro">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,idea,git,github,vscode,html,css,js,figma" alt="Pila de tecnología" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,git,github,css,js" alt="Lenguajes" />
   </a>
 </p>
 
 ---
 
 <!-- ESTADÍSTICAS DE GITHUB -->
-<h2 alinear="centro">📊 Estadísticas de GitHub</h2>
+<h2 alinear="centro">Rstadísticas</h2>
 
 <p alinear="centro">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jair0-o&tema=oscuro&ocultar_borde=verdadero&fondo=0D1117" alt=„GitHub Racha" />
@@ -67,7 +67,7 @@
 ---
 
 <!-- GRÁFICO DE ACTIVIDAD -->
-<h2 alinear="centro">📈 Gráfico de actividad</h2>
+<h2 alinear="centro">Gráfica de Actividad</h2>
 
 <p alinear="centro">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jair0-o&tema=github-compacto&ocultar_borde=verdadero&bg_color=0D1117" alt="Gráfico de actividades" />
