@@ -21,11 +21,11 @@
 
 Jairo, Aquí — estudiante de informática enfocado en desarrollo de software y bases de datos.
 
-Disfruto creando aplicaciones escalables, diseñando UI/UX limpias y mejorando continuamente mi comprensión de los sistemas backend y la programación orientada a objetos.
+Soy un Apasionado de los Deportes como de Programación, me divierto mucho realizando proyectos de Java.
 
-Actualmente aprendiendo JavaFX, MySQL, y avanzando en las arquitecturas de sistemas mientras agudizo mis habilidades para resolver problemas.
+Actualmente aprendiendo Java y puliendo mis habilidades de programación.
 
-Mi objetivo es simple: escribir código limpio, crear software confiable y convertirme en un ingeniero full-stack que cree sistemas duraderos.
+Objetivo: llegar a escribir código limpio, crear software confiable y convertirme en un Programador full-stack que cree sistemas duraderos.
 
 <br clear="all">
 
@@ -46,19 +46,14 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y conve
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="35" height="35" alt="TikTok" />
   </a>
   &nbsp;&nbsp;
-  <!-- Correo -->
-<a href="mailto:jorellana-2026225@kinal.edu.gt" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" width="35" height="35" alt="Outlook" />
-</a>
   <!-- Discord -->
   <a href="https://discord.com/users/jairo_0rellana" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="35" height="35" alt="Discord" />
   </a>
 </p>
 
----
 
-<!-- ICONOS DE TECH STACK CON -->
+<!-- ICONOS-->
 <h2 alinear="centro">Lenguajes</h2>
 
 <p alinear="centro">
