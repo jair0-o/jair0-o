@@ -4,7 +4,7 @@
 </p>
 
 <!-- PRESENTACIÓN -->
-<h1 align="center">Hola 👋, Soy Jairo</h1>
+<h1 align="center">𝙷𝚘𝚕𝚊 👋🏼, 𝚂𝚘𝚢 𝙹𝚊𝚒𝚛𝚘</h1>
 
 <h3 align="center">Desarrollador y estudiante de software</h3>
 
@@ -15,7 +15,7 @@
 ---
 
 <!-- ACERCA DE MÍ -->
-<h2 align="center">Acerca de mí 🕷</h2>
+<h2 align="center">𝙰𝚌𝚎𝚛𝚌𝚊 𝙳𝚎 𝙼𝚒  🕷</h2>
 
 <img align="right" src="https://raw.githubusercontent.com/jair0-o/jair0-o/main/caballerito.jpg" width="220" alt="Icono">
 
@@ -34,7 +34,7 @@
 ---
 
 <!-- CONTACTO -->
-<h2 align="center">Contacto 📱</h2>
+<h2 align="center">𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚘 📱</h2>
 
 <p align="center">
   <!-- Instagram -->
@@ -56,7 +56,7 @@
 ---
 
 <!-- LENGUAJES -->
-<h2 align="center">Lenguajes 💻</h2>
+<h2 align="center">𝙻𝚎𝚗𝚐𝚞𝚊𝚓𝚎𝚜 💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
