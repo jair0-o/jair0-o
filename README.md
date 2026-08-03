@@ -34,7 +34,7 @@
 ---
 
 <!-- CONTACTO -->
-<h2 align="center">Contacto</h2>
+<h2 align="center">Contacto 📱</h2>
 
 <p align="center">
   <!-- Instagram -->
@@ -56,7 +56,7 @@
 ---
 
 <!-- LENGUAJES -->
-<h2 align="center">💻 Lenguajes</h2>
+<h2 align="center">Lenguajes 💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
