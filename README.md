@@ -44,7 +44,7 @@
   &nbsp;&nbsp;
   <!-- TikTok -->
   <a href="https://tiktok.com/@jairo_0rellana" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" width="40" alt="TikTok" />
+  <img src="https://skillicons.dev/icons?i=tiktok" width="40" alt="TikTok" />
   </a>
   &nbsp;&nbsp;
   <!-- Discord -->
