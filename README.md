@@ -23,7 +23,7 @@
 ---
 
 <!-- CONTACTO -->
-<p align="center"><b>Contacto 📱</b></p>
+<h2 align="center">Contacto 📱</h2>
 
 <p align="center">
   <a href="https://instagram.com/jairo_0rellana" target="_blank">
